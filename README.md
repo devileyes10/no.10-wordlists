@@ -1,4 +1,4 @@
-# no.10_bugbounty-setup
+# no.10-wordlists
 Start with why! 
 Collected wordlist that does not exist on another wordlist
 
